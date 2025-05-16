@@ -14,8 +14,6 @@ This project explores Netflix viewership data to uncover trends in audience pref
 - **Excel**: Data cleaning and preprocessing
 - **Data Analysis**: Aggregations, filters, DAX, slicers
 
-## 📂 Project Structure
-
 ## 📷 Sample Dashboard
 ![Screenshot 2025-05-16 214829](https://github.com/user-attachments/assets/d1112e7e-afd2-41a9-a225-6ed69e729854)
 
